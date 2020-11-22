@@ -1,10 +1,10 @@
 # NodejsStartedKit
 This was a template that I already had for routing
 
-## Pre-requisitos
+## Requirements
 
 - Have installed postman for testing
-
+- Install missing packages if they are not in the node modules
 ## Proceso de Build
 
 
